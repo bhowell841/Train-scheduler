@@ -1,0 +1,14 @@
+form {
+    /* padding-bottom: 50px; */
+    
+    /* border: 2px solid blue; */
+}
+
+.panel {
+    border: 2px solid blue;
+    padding: 20px;
+}
+
+.container {
+    margin-bottom: 20px;
+}
